@@ -1,11 +1,11 @@
 METADATA =\
 {
-	'name': 'FaceFusion',
-	'description': 'Next generation face swapper and enhancer',
-	'version': '2.5.0',
+	'name': 'KairosAI',
+	'description': 'AI FACE SWAP VIDEO',
+	'version': 'Face Swap',
 	'license': 'MIT',
-	'author': 'Henry Ruhs',
-	'url': 'https://facefusion.io'
+	'author': 'KairosAI',
+	'url': 'https://kairosai.online'
 }
 
 
